@@ -1,4 +1,4 @@
 # Les gros dossiers à éviter sur GitHub
 node_modules/
 .next/
-.env*.local
+.env
