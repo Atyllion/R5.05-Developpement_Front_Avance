@@ -6,6 +6,4 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 pour démarrer : pnpm dev
 
-Continuer a partir d'ici : https://nextjs.org/learn/dashboard-app/partial-prerendering#how-does-partial-prerendering-work
-
 Aller jusqu'au chapritre 13
