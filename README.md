@@ -6,4 +6,4 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 pour démarrer : pnpm dev
 
-Aller jusqu'au chapritre 13
+auth : user@nextmail.com - 123456
